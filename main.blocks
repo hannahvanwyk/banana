@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="],.nqG6b9r=_=gNqR.00" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="{Kg]N3|JE$N^DpZlY$C}"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="playMelody" id="Xv3D_~az1|~q80stHSs!"><value name="melody"><shadow type="melody_editor" id="ID+-=w^ODq^Vx2)u1RK~"><field name="melody">"G - F F F A A A "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id=".NOSSi@|8dNkwC#jX[_I"><mutation min="40" max="500" label="Tempo" precision="0"/><field name="SLIDER">120</field></shadow></value></block></next></block></statement></block><block type="device_forever" id="z@d2iI9PU{R3*K@R3KQW" x="205" y="0"/></xml>
